@@ -4,7 +4,7 @@ Created on Tue Oct  6 23:38:42 2020
 
 @author: ASTRID
 """
-
+# Prueba de cambio bajo controlde versiones desde VSC
 def ruteo(distancias: dict, ruta_inicial: list)-> dict:
     # Validar datos de entrada del diccionario
     for valor in distancias.values():
